@@ -1,2 +1,1 @@
-#AWS Lambda Function NodeJS Template
-
+#raymer-aws-lambda
